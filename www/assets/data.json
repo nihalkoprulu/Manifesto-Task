@@ -1,0 +1,26 @@
+{
+	"header": "Manifesto Test Website",
+	"menu": [{
+		"title": "Home",
+		"url": "index.html"
+	}, {
+		"title": "Page 1",
+		"url": "page2.html"
+	}, {
+		"title": "Page 2",
+		"url": "page2.html",
+		"submenu": [{
+			"title": "SubPage 1",
+			"url": "subpage1.html"
+		}, {
+			"title": "SubPage 2",
+			"url": "subpage2.html"
+		}]
+	}, {
+		"title": "Contact",
+		"url": "contact.html"
+	}],
+	"title": "Welcome to our homepage",
+	"body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque pharetra sit amet ante at commodo. Sed tincidunt rhoncus fermentum. Donec fermentum volutpat est, a interdum odio scelerisque non. Nullam facilisis magna ac ipsum sollicitudin accumsan. Sed id dui adipiscing, condimentum magna non, molestie ipsum. Donec varius massa eget justo vulputate rhoncus. Integer laoreet turpis id magna rutrum sodales. Nullam eu mauris hendrerit, vulputate nisi ut, condimentum metus. Donec eros ligula, facilisis ac mi a, accumsan vestibulum tortor. Morbi tellus felis, tempor non mi ac, viverra porta lorem. Phasellus dignissim, mauris id vulputate malesuada, tortor metus placerat justo, bibendum vehicula velit magna in leo. Sed condimentum tortor ac ipsum ultricies, quis tristique massa malesuada. Vivamus vitae congue felis. Etiam dictum aliquet felis. Sed euismod in sem eu semper. Nam pulvinar nisl nisi, venenatis bibendum leo lobortis vel.<\/p><p>Nulla pharetra odio non leo sollicitudin, vel semper lorem sagittis. Pellentesque viverra pulvinar elementum. Donec pulvinar consequat augue. Aenean vitae libero sit amet quam faucibus pulvinar ac sit amet nibh. Fusce venenatis magna nulla. Curabitur dignissim justo eu purus pharetra suscipit. Donec tempus eros eget cursus vestibulum.<\/p>",
+	"footer": "Copyright &copy; 2019"
+}

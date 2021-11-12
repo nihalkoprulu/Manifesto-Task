@@ -1,0 +1,11 @@
+{
+  "name": "manifesto-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "author": "Nihal Koprulu",
+  "license": "ISC"
+}
